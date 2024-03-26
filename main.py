@@ -25,12 +25,12 @@ friends = [
     {
         "username": "friend2",
         "id": "54321",
-        "amount:": 0
+        "amount": 0
     },
     {
         "username": "friend3",
         "id": "67890",
-        "amount:": 0
+        "amount": 0
     }
 ]
 
